@@ -1,6 +1,6 @@
 ## Hello!
 
-My name is Ben  
+### My name is Ben  
 this is my cover letter for Patreon, a company that I would absolutlely LOVE to work at   
 your mission of supporting creators is one that really resonates with me  
 I have creator friends who I try to support as well  
@@ -10,3 +10,5 @@ I have creator friends who I try to support as well
 ![Valarie has a Youtube channel](/images/Val_pic.PNG)
 - Albert streams on Twitch  
 ![Albert streams on Twitch](/images/Alb_pic.PNG)
+  
+I'm very passionate about your mission. I believe that I can really help Patreon gorw and continue to help creators grow as well as a Data Scientist
