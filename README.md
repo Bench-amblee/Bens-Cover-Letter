@@ -41,7 +41,3 @@ If you've gotten this far, thank you so much for reading through this whole lett
 I'd love to talk more about Patreon's goals for this position and how I can help achieve them.   
 Thanks again, I hope to hear from you soon!  
 
-
-
-
-
