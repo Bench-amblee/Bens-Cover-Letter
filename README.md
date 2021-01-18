@@ -11,7 +11,7 @@ I have creator friends who I try to support as well:
 - Albert streams on Twitch  
 ![Albert streams on Twitch](/images/Alb_pic.PNG)  
   
-I want to help creators around the world, Patreon is the place to do that.  
+I want to help them and other creators around the world, Patreon is the place to do that.  
 
 ## How can I help Patreon help it's creators? with DATA   
 I've been using data to answer questions and solve problems for a long time now  
