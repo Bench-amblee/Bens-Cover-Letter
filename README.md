@@ -30,7 +30,7 @@ I can confidently work on any project that involves
 - Excel
 - SQL
 - Tableau
-- Git
+- Git  
 And I can pick up skills that I'm not familiar with like RedShift, R, and Amplitude. I'm learning more about Data Science every day and would love to add these programs to my repetoire.
 
 ## I have plenty of experience working with marketing analytics and using data to make decisions
