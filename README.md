@@ -35,7 +35,7 @@ I can confidently work on any project that involves
 And I can pick up skills that I'm not familiar with like RedShift, R, and Amplitude. I'm learning more about Data Science every day and would love to add these programs to my repetoire.
 
 ## I have plenty of experience working with marketing analytics and using data to make decisions
-I worked at a digital marketing company in Austin where we supported a lot of independent business using analytics.
+I worked at a digital marketing company in Austin where we supported a lot of independent businesses using analytics.
 Whether it was to engage with their clients more on social media or to post more frequently, the rest of the team and I helped a lot of businesses succeed just by interpreting data, answering questions, and solving problems. 
 ### I'd love to do the same at Patreon
 If you've gotten this far, thank you so much for reading through this whole letter!  
