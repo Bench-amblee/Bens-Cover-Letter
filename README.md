@@ -5,9 +5,9 @@
 This is my cover letter for ESRI, a company where I would absolutlely LOVE to work!
 I've been interested in visualizing geographic data for many years now: 
 - From my time as a student of Geography at The University of Texas:   
-<img src="images/geo_project1.jpg" width="400">       
+<img style='border:2px solid #000000' src="images/geo_project1.jpg" width="400">       
 - To my current endevors as an aspiring data scientist:     
-<img src="images/geo_project2.JPG" width="400">        
+<img style='border:2px solid #000000' src="images/geo_project2.JPG" width="400">        
 I want to continue to create awesome projects like these to help people around the world! Just like ESRI I want my work to contribute to sustainability, community, education, research, and positive change.
 
 ## How can I help ESRI with their mission? with DATA 
