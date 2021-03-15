@@ -24,7 +24,7 @@ My resume can tell you more about this or you can also check out my [Github](htt
 I can confidently work on any project that involves
 - Python, including libraries like pandas, numpy, matplotlib, streamlit, and seaborn
 - HTML/CSS (and markdown files to like the one you're reading now)
-- Excel
+- Excel and Google Sheets
 - SQL
 - Tableau
 - Git  
