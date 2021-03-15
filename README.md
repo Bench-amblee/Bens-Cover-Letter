@@ -1,4 +1,4 @@
-## Hello!
+### Hello!
 
 ### My name is Ben
 ![This is me](/images/Ben_pic.jpeg)  
@@ -10,7 +10,7 @@ I've been interested in visualizing geographic data for many years now:
 <img style='border:2px solid #000000' src="images/geo_project2.JPG" width="400">        
 I want to continue to create awesome projects like these to help people around the world! Just like ESRI I want my work to contribute to sustainability, community, education, research, and positive change.
 
-## How can I help ESRI with their mission? with DATA 
+### How can I help ESRI with their mission? with DATA 
 I've been using data to answer questions and solve problems for a long time
 
 - What's the best coffeeshop in Austin? [There's a spreadsheet for that](https://docs.google.com/spreadsheets/d/1ej90jWdd38xZb2M440tFu2RBhw0qJF92Jl6uLJeZU5A/edit?usp=sharing)
@@ -30,7 +30,7 @@ I can confidently work on any project that involves
 - Git/Github  
 And I can pick up skills that I'm not familiar with like writing in JavaScript or HTML5. I'm learning more about Data Science every day and would love to add these programs to my repetoire.
 
-## I have plenty of experience working with marketing analytics and using data to make decisions
+### I have plenty of experience working with marketing analytics and using data to make decisions
 I worked at a digital marketing company in Austin where we supported a lot of independent businesses using analytics.
 Whether it was to engage with their clients more on social media or to post more frequently, the rest of the team and I helped a lot of businesses succeed just by interpreting data, answering questions, and solving problems. 
 ### I'd love to do the same at Patreon
