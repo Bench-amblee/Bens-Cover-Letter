@@ -4,7 +4,8 @@
 ![This is me](/images/Ben_pic.jpeg)  
 This is my cover letter for ESRI, a company that I would absolutlely LOVE to work at!    
 I've been interested in visualizing geographic data for many years now: 
-- From my time as a student of Geography at The University of Texas: 
+- From my time as a student of Geography at The University of Texas:
+<img src="images/geo_project1.jpg" width="48">
 ![](/images/geo_project1.jpg)  
 - To my current endevors as an aspiring data scientist: 
 ![](/images/geo_project2.JPG)  
