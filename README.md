@@ -11,7 +11,7 @@ I've been interested in visualizing geographic data for many years now:
 I want to continue to create awesome projects like these to help people around the world! Just like ESRI I want my work to contribute to sustainability, community, education, research, and positive change.
 
 ## How can I help ESRI with their mission? with DATA 
-I've been using data to answer questions and solve problems for a long time now
+I've been using data to answer questions and solve problems for a long time
 
 - What's the best coffeeshop in Austin? [There's a spreadsheet for that](https://docs.google.com/spreadsheets/d/1ej90jWdd38xZb2M440tFu2RBhw0qJF92Jl6uLJeZU5A/edit?usp=sharing)
 - Can you really taste the difference between red velvet and chocolate cake? [There's a spreadsheet for that](https://docs.google.com/spreadsheets/d/1-mqfiPSJpwAZFdIneJR1HSIZY6rC7ZfcZa_cJdHnmg0/edit?usp=sharing)
