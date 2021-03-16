@@ -9,16 +9,11 @@ I've been interested in visualizing geographic data for many years now:
     <td><b style="font-size:30px">To my current endevors as an aspiring data scientist</b></td>
  </tr>
  <tr>
-    <td><img style='border:2px solid #000000' src="images/geo_project1.jpg" width="200"></td>
-    <td>Lorem ipsum ...</td>
+    <td><img style='border:2px solid #000000' src="images/geo_project1.jpg" width="200">A project I worked on that display's the uneven distribution of wealth in Dallas </td>
+    <td><img style='border:2px solid #000000' src="images/geo_project2.JPG" width="200"> A NDVI analysis of New York City from 1975-2020</td>
  </tr>
-</table>
-- From my time as a student of Geography at The University of Texas:   
-<img style='border:2px solid #000000' src="images/geo_project1.jpg" width="200">
-A project I worked on that display's the uneven distribution of wealth in Dallas     
-
-- To my current endevors as an aspiring data scientist:     
-<img style='border:2px solid #000000' src="images/geo_project2.JPG" width="200">        
+</table>    
+       
 I want to continue to create awesome projects like these to help people around the world! Just like ESRI I want my work to contribute to sustainability, community, education, research, and positive change.
 
 ## How can I help ESRI with their mission? with DATA 
