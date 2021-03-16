@@ -1,4 +1,4 @@
-## Hello
+## Hello!
 
 ### My name is Ben    
 This is my cover letter for ESRI, a company where I would absolutlely LOVE to work!
