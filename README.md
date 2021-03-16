@@ -2,7 +2,17 @@
 
 ### My name is Ben    
 This is my cover letter for ESRI, a company where I would absolutlely LOVE to work!
-I've been interested in visualizing geographic data for many years now: 
+I've been interested in visualizing geographic data for many years now:
+<table border="0">
+ <tr>
+    <td><b style="font-size:30px">From my time as a student of Geography at The University of Texas</b></td>
+    <td><b style="font-size:30px">To my current endevors as an aspiring data scientist</b></td>
+ </tr>
+ <tr>
+    <td><img style='border:2px solid #000000' src="images/geo_project1.jpg" width="200"></td>
+    <td>Lorem ipsum ...</td>
+ </tr>
+</table>
 - From my time as a student of Geography at The University of Texas:   
 <img style='border:2px solid #000000' src="images/geo_project1.jpg" width="200">
 A project I worked on that display's the uneven distribution of wealth in Dallas     
