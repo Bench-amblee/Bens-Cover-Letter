@@ -1,4 +1,6 @@
-## My name is Ben    
+## Hello!
+
+### My name is Ben    
 This is my cover letter for ESRI, a company where I would absolutlely LOVE to work!
 I've been interested in visualizing geographic data for many years now:
 <table border="0">
