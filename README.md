@@ -9,8 +9,8 @@ I've been interested in visualizing geographic data for many years now:
     <td><b style="font-size:20px">To my current endevors as an aspiring data scientist</b></td>
  </tr>
  <tr>
-    <td><img style='border:2px solid #000000' src="images/geo_project1.jpg" width="200" <p> "A project I worked on that display's the uneven distribution of wealth in Dallas" </td>
-    <td><img style='border:2px solid #000000' src="images/geo_project2.JPG" width="200" <p> 'A NDVI analysis of New York City from 1975-2020'</td>
+    <td><img style='border:2px solid #000000' src="images/geo_project1.jpg" width="200" <p>A project I worked on that display's the uneven distribution of wealth in Dallas</td>
+    <td><img style='border:2px solid #000000' src="images/geo_project2.JPG" width="200" <p>A NDVI analysis of New York City from 1975-2020</td>
  </tr>
 </table>    
        
