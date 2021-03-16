@@ -41,5 +41,5 @@ I worked at a digital marketing company in Austin where we supported a lot of in
 Whether it was to engage with their clients more on social media or to post more frequently, the rest of the team and I helped a lot of businesses succeed just by interpreting data, answering questions, and solving problems. 
 ## I'd love to do the same at ESRI
 If you've gotten this far, thank you so much for reading through this whole letter!  
-I'd love to talk more about Patreon's goals for this position and how I can help achieve them.   
+I'd love to talk more about ESRI's goals for this position and how I can help achieve them.   
 Thank you again, I hope to hear from you soon!  
