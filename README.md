@@ -2,8 +2,7 @@
 
 ### Hello!
 
-### My name is Ben
-![This is me](/images/Ben_pic.jpeg)  
+### My name is Ben    
 This is my cover letter for ESRI, a company where I would absolutlely LOVE to work!
 I've been interested in visualizing geographic data for many years now: 
 - From my time as a student of Geography at The University of Texas:   
