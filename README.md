@@ -47,4 +47,4 @@ Thank you again, I hope to hear from you soon!
 [Email](ben@benchamblee.blog)   
 [Website](https://benchamblee.blog/)    
 [Github](https://github.com/Bench-amblee)    
-[Resume](https://www.linkedin.com/in/ben-chamblee-he-him-354245a3/)    
+[LinkedIn](https://www.linkedin.com/in/ben-chamblee-he-him-354245a3/)    
