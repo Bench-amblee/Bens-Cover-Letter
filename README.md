@@ -1,17 +1,15 @@
-##  ________
-
-### Hello
+## Hello!
 
 ### My name is Ben    
 This is my cover letter for ESRI, a company where I would absolutlely LOVE to work!
 I've been interested in visualizing geographic data for many years now: 
 - From my time as a student of Geography at The University of Texas:   
-<img style='border:2px solid #000000' src="images/geo_project1.jpg" width="400">       
+<img style='border:2px solid #000000' src="images/geo_project1.jpg" width="200">       
 - To my current endevors as an aspiring data scientist:     
-<img style='border:2px solid #000000' src="images/geo_project2.JPG" width="400">        
+<img style='border:2px solid #000000' src="images/geo_project2.JPG" width="200">        
 I want to continue to create awesome projects like these to help people around the world! Just like ESRI I want my work to contribute to sustainability, community, education, research, and positive change.
 
-### How can I help ESRI with their mission? with DATA 
+## How can I help ESRI with their mission? with DATA 
 I've been using data to answer questions and solve problems for a long time
 
 - What's the best coffeeshop in Austin? [There's a spreadsheet for that](https://docs.google.com/spreadsheets/d/1ej90jWdd38xZb2M440tFu2RBhw0qJF92Jl6uLJeZU5A/edit?usp=sharing)
@@ -34,7 +32,7 @@ And I can pick up skills that I'm not familiar with like writing in JavaScript o
 ### I have plenty of experience working with marketing analytics and using data to make decisions
 I worked at a digital marketing company in Austin where we supported a lot of independent businesses using analytics.
 Whether it was to engage with their clients more on social media or to post more frequently, the rest of the team and I helped a lot of businesses succeed just by interpreting data, answering questions, and solving problems. 
-### I'd love to do the same at Patreon
+## I'd love to do the same at Patreon
 If you've gotten this far, thank you so much for reading through this whole letter!  
 I'd love to talk more about Patreon's goals for this position and how I can help achieve them.   
 Thank you again, I hope to hear from you soon!  
