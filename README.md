@@ -42,4 +42,9 @@ Whether it was to engage with their clients more on social media or to post more
 ## I'd love to do the same at ESRI
 If you've gotten this far, thank you so much for reading through this whole letter! I'd love to talk more about ESRI's goals for this position and how I can help achieve them.      
 Thank you again, I hope to hear from you soon!  
-### - Ben 
+### - Ben    
+
+[Email](ben@benchamblee.blog)   
+[Website](https://benchamblee.blog/)    
+[Github](https://github.com/Bench-amblee)    
+[Resume](https://www.linkedin.com/in/ben-chamblee-he-him-354245a3/)    
