@@ -1,7 +1,9 @@
 ## Hello!
 
 ### My name is Ben    
-This is my cover letter for Hungryroot, a company that I would absolutely love to work with! Your mission for making healthy eating accesible and sustainable is one that really resonates with me. I'm also very passionate about food: 
+This is my cover letter for Hungryroot, a company that I would absolutely love to work with! Your mission for making healthy eating accesible and sustainable is one that really resonates with me. 
+
+I'm also very passionate about food: 
 
 - Here's a spreadsheet I made to keep track of my favorite coffeeshops in Austin: [Spreadsheet](https://docs.google.com/spreadsheets/d/1ej90jWdd38xZb2M440tFu2RBhw0qJF92Jl6uLJeZU5A/edit#gid=0)
 - I also did a report for the pizza place I used to work at to determine which food item was the best (in terms of calories per $), this also includes a "app" where you can build your own 3 topping pizza and it will give you a rank based on the total amount of calories: [Pizza report](https://benchamblee.blog/2020/03/25/239/) 
