@@ -1,46 +1,31 @@
 ## Hello!
 
 ### My name is Ben    
-This is my cover letter for ESRI, a company where I would absolutlely LOVE to work!
-I've been interested in visualizing geographic data for many years now:
-<table border="0">
- <tr>
-    <td><b style="font-size:20px">From my time as a student of Geography at The University of Texas</b></td>
-    <td><b style="font-size:20px">To my current endevors as an aspiring data scientist</b></td>
- </tr>
- <tr>
-    <td><img style='border:2px solid #000000' src="images/geo_project1.jpg" width="200"><p>A project I worked on that displays the uneven distribution of wealth in Dallas</p> </td>
-    <td><img style='border:2px solid #000000' src="images/geo_project2.JPG" width="200"> <p>A NDVI analysis of New York City from 1975-2020</p></td>
- </tr>
-</table>    
+This is my cover letter for Hungryroot, a company that I would absolutely love to work with! Your mission for making healthy eating accesible and sustainable is one that really resonates with me. I'm also very passionate about food: 
+
+- Here's a spreadsheet I made to keep track of my favorite coffeeshops in Austin: https://docs.google.com/spreadsheets/d/1ej90jWdd38xZb2M440tFu2RBhw0qJF92Jl6uLJeZU5A/edit#gid=0 
+- I also did a report for the pizza place I used to work at to determine which food item was the best (in terms of calories per $), this also includes a "app" where you can build your own 3 topping pizza and it will give you a rank based on the total amount of calories: https://benchamblee.blog/2020/03/25/239/ 
        
-I want to continue to create awesome projects like these to help people around the world! Just like ESRI I want my work to contribute to sustainability, community, education, research, and positive change.
+I want to continue to use data and my passion for food to work on awesome projects like these - and Hungryroot looks like an amazing place to do that
 
-## How can I help ESRI achieve their mission? with DATA 
-I've been using data to answer questions and solve problems for a long time
-
-- What's the best coffeeshop in Austin? [There's a spreadsheet for that](https://docs.google.com/spreadsheets/d/1ej90jWdd38xZb2M440tFu2RBhw0qJF92Jl6uLJeZU5A/edit?usp=sharing)
-- Can you really taste the difference between red velvet and chocolate cake? [There's a spreadsheet for that](https://docs.google.com/spreadsheets/d/1-mqfiPSJpwAZFdIneJR1HSIZY6rC7ZfcZa_cJdHnmg0/edit?usp=sharing)
-
-Here's a more useful one:  
-- When should all the interns who have different schedules and are located in different parts of the country meet up? [There's a spreadsheet for that](https://docs.google.com/spreadsheets/d/1cYUTfm4D-B3j6mDdcGZA84LX3IJzBRVbM7zbRk5V8Xo/edit?usp=sharing)
-
-### I also have been learning Python over the past few years and am currently completing a full data science bootcamp!
+### What would make me a good data scientist? 
+Good question! I started learning python a little over two years ago, but I really got into it after quarantine started. I used those skills to get accepted into an online data science bootcamp which I'm finishing up now!   
 My resume can tell you more about this or you can also check out my [Github](https://github.com/Bench-amblee?tab=repositories) to see what I've been working on.  
 I can confidently work on any project that involves
 - Python, including libraries like pandas, numpy, matplotlib, streamlit, and seaborn
+- Machine Learning models with scikit-learn including regression, correlation, random forest, gradient boosting, etc.
 - HTML/CSS (and markdown files to like the one you're reading now)
 - SQL, MySQL Server, SQLite
 - Excel and Google Sheets
 - Tableau
 - Git/Github  
-And I can pick up skills that I'm not familiar with like writing in JavaScript or HTML5. I'm learning more about Data Science every day and would love to add these programs to my repetoire.
+And I can pick up skills that I'm not familiar with like R and the best practices for a D2C business. I'm learning more about Data Science every day and would love to take on new challenges.
 
 ### I have plenty of experience working with marketing analytics and using data to make decisions
-I worked at a digital marketing company in Austin where we supported a lot of independent businesses using analytics.
+I worked at a digital marketing startup in Austin where we supported a lot of independent businesses using analytics.
 Whether it was to engage with their clients more on social media or to post more frequently, the rest of the team and I helped a lot of businesses succeed just by interpreting data, answering questions, and solving problems. 
-## I'd love to do the same at ESRI
-If you've gotten this far, thank you so much for reading through this whole letter! I'd love to talk more about ESRI's goals for this position and how I can help achieve them.      
+## I'd love to do the same at Hungryroot
+If you've gotten this far, thank you so much for reading through this whole letter! I'd love to talk more about Hungryroots's goals for this position and how I can help achieve them.      
 Thank you again, I hope to hear from you soon!  
 ### - Ben    
 
