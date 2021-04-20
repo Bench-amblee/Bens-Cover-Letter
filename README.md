@@ -5,14 +5,17 @@ This is my cover letter for Hungryroot, a company that I would absolutely love t
 
 I'm also very passionate about food: 
 
-- Here's a spreadsheet I made to keep track of my favorite coffeeshops in Austin: [Spreadsheet](https://docs.google.com/spreadsheets/d/1ej90jWdd38xZb2M440tFu2RBhw0qJF92Jl6uLJeZU5A/edit#gid=0)
-- I also did a report for the pizza place I used to work at to determine which food item was the best (in terms of calories per $), this also includes a "app" where you can build your own 3 topping pizza and it will give you a rank based on the total amount of calories: [Pizza report](https://benchamblee.blog/2020/03/25/239/) 
+- Here's a spreadsheet I made to keep track of my favorite coffeeshops in Austin: [Click me!](https://docs.google.com/spreadsheets/d/1ej90jWdd38xZb2M440tFu2RBhw0qJF92Jl6uLJeZU5A/edit#gid=0)
+
+- I also did a report for the pizza place I used to work at to determine which food item was the best (in terms of calories per $), this also includes a "app" where you can build your own 3 topping pizza and it will give you a rank based on the total amount of calories: [Click me!](https://benchamblee.blog/2020/03/25/239/) 
        
 I want to continue to use data and my passion for food to work on awesome projects like these - and Hungryroot looks like an amazing place to do that
 
 ### What would make me a good data scientist? 
-Good question! I started learning python a little over two years ago, but I really got into it after quarantine started. I used those skills to get accepted into an online data science bootcamp which I'm finishing up now!   
-My resume can tell you more about this or you can also check out my [Github](https://github.com/Bench-amblee?tab=repositories) to see what I've been working on.  
+Good question! I started learning python a little over two years ago, but I really got into it after quarantine started. I used those skills to get accepted into an online data science bootcamp which I'm finishing up now!
+
+My resume can tell you more about this or you can also check out my [Github](https://github.com/Bench-amblee?tab=repositories) to see what I've been working on. 
+
 I can confidently work on any project that involves
 - Python, including libraries like pandas, numpy, matplotlib, streamlit, and seaborn
 - Machine Learning models with scikit-learn including regression, correlation, random forest, gradient boosting, etc.
