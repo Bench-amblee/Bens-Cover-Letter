@@ -1,7 +1,7 @@
 ## Hello!
 
 ### My name is Ben    
-This is my cover letter for Hungryroot, a company that I would absolutely love to work with! Your mission for making healthy eating accesible and sustainable is one that really resonates with me. 
+This is my cover letter for Hungryroot, a company that I would absolutely love to work with! Your mission for making healthy eating accessible and sustainable is one that really resonates with me. 
 
 I'm also very passionate about food: 
 
